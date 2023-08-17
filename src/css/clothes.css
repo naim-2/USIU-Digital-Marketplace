@@ -1,0 +1,84 @@
+/* Style the search box */
+#clothesmySearch {
+    width: 100%;
+    font-size: 18px;
+    padding: 11px;
+    border: 1px solid #ddd;
+  }
+  
+  /* Style the navigation menu */
+  #clothesmyMenu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-left: -10%;
+    margin-right: -20%;
+  }
+
+  #clothesmyMenu2 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-left: -10%;
+    margin-right: -20%;
+  }
+  
+  /* Style the navigation links */
+  #clothesmyMenu li {
+    padding: 12px;
+    text-decoration: none;
+    color: #2B3990;
+    display: block;
+    margin: 4%;
+    margin-bottom: 0%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    float: left;
+    width: 90%;
+  }
+
+  #clothesmyMenu li:hover {
+    background-color: #ffffff;
+  }
+
+    /* Style the navigation links */
+    #clothesmyMenu2 li {
+      padding: 12px;
+      text-decoration: none;
+      color: #2B3990;
+      display: block;
+      margin: 4%;
+      margin-bottom: 0%;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      border-radius: 5px;
+      float: left;
+      width: 90%;
+    }
+  
+    #clothesmyMenu2 li:hover {
+      background-color: #FFCB05;
+    }
+
+  #details {
+    float: right;
+    margin-right:1%;
+    width:30%;
+    text-align: left;
+  }
+  #details p{
+    text-decoration: none;
+  }
+
+  #details .blue{
+    color:#2b3990;
+  }
+
+  #details .black{
+    color: #000000;
+  }
+
+  #details .grey{
+    color: #555;
+  }
